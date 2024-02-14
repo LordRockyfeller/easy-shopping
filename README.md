@@ -9,7 +9,7 @@
 <br>
 <p>E este é um projeto totalmente responsivo tanto em PC
   <br>
-  <img src="https://github.com/LordRockyfeller/wide-coverage-location/blob/main/img/img%203.png?raw=true"/></p>
+  <img src="https://github.com/LordRockyfeller/easy-shopping/blob/main/img%205.png?raw=true"/></p>
   <p>como para mobile 
   <br>
     <img src="https://github.com/LordRockyfeller/easy-shopping/blob/main/img%206.png?raw=true"/>
